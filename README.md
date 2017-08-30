@@ -6,5 +6,13 @@ Current full stack project that I'm working on. Building features for startup cl
 
 ---
 
+# Framework
+1. Front end : React, Redux
+2. Running :  Express.js
+3. Backend : Silex - Symphony (PHP)
+
+
+---
+
 # Author
 Vi Tung - tungvq68@gmail.com
